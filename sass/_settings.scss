@@ -1,0 +1,23 @@
+*, ::after, ::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: #777;
+    letter-spacing: .2rem;
+    padding: 5rem;
+    background-color: white;
+}
+
+.container {
+    background-color: rgba(247, 247, 247, 1);
+}
